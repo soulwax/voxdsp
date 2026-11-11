@@ -1,0 +1,12 @@
+name: voxdsp
+description: Pure Dart digital signal processing, biquad filters, algorithmic Schroeder reverb, feedback delay, 3D spatial audio, and audio mixer graph.
+version: 0.1.0
+repository: https://github.com/soulwax/voxdsp
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
