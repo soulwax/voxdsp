@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxdsp logo"/>
+</p>
+
 # voxdsp
 
 A lightweight, pure Dart digital signal processing (DSP), audio filtering, reverberation, spatial 3D audio, and mixer bus hierarchy engine.
